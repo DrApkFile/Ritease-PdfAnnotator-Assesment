@@ -23,8 +23,8 @@ A modern web application for annotating PDF documents with highlighting, underli
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/DrApkFile/Ritease-PdfAnnotator-Test/.git
-   cd Ritease-PdfAnnotator-Test
+   git clone https://github.com/DrApkFile/Ritease-PdfAnnotator-Assesment/.git
+   cd Ritease-PdfAnnotator-Assesment
    ```
 
 2. Install dependencies
